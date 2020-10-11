@@ -1,1 +1,1 @@
-// Basic classifier to start out
+# Basic classifier to start out
